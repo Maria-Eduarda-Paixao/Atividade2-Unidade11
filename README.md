@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+projeto da atividade 2 da unidade 11 - Talento Tech Paraná 
 
 ## Getting Started
 
